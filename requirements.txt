@@ -4,4 +4,3 @@ pandas
 scipy
 joblib
 scikit-learn
-pyarrow==12.0.1
